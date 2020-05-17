@@ -45,6 +45,16 @@ CasksUtilitiesList=(
     microsoft-teams
     microsoft-office
     zoomus
+    flux
+    whatsapp
+    vlc
+    sourcetree
+    google-chrome
+    kap
+    adobe-acrobat-reader
+    calibre
+    zeplin
+    ccleaner
     497799835 # Xcode
     985367838 # Microsoft Outlook
 )
