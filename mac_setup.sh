@@ -56,6 +56,7 @@ CasksUtilitiesList=(
     zeplin
     iterm2
     ccleaner
+    charles
     497799835 # Xcode
     985367838 # Microsoft Outlook
 )
