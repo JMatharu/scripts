@@ -57,6 +57,7 @@ CasksUtilitiesList=(
     iterm2
     ccleaner
     charles
+    postman
     497799835 # Xcode
     985367838 # Microsoft Outlook
 )
