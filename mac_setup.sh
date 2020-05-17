@@ -54,6 +54,7 @@ CasksUtilitiesList=(
     adobe-acrobat-reader
     calibre
     zeplin
+    iterm2
     ccleaner
     497799835 # Xcode
     985367838 # Microsoft Outlook
