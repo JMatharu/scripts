@@ -60,6 +60,8 @@ CasksUtilitiesList=(
     postman
     497799835 # Xcode
     985367838 # Microsoft Outlook
+    pennywise
+    ferdi
 )
 
 for val in ${CasksUtilitiesList[@]}; do
