@@ -62,6 +62,9 @@ CasksUtilitiesList=(
     985367838 # Microsoft Outlook
     pennywise
     ferdi
+    latest
+    apple-juice
+    hiddenbar
 )
 
 for val in ${CasksUtilitiesList[@]}; do
